@@ -20,6 +20,6 @@ I'm a frontend developer who is immersed in the vibrant and diverse world of fro
 
 <p align="center">
   <a href="https://github.com/H-Was1"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=H-Was1&show_icons=true&theme=tokyonight&count-private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Was1i&theme=tokyonight&layout=compact&count-private=true&hide=jupyter%20notebook"/></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Was1&theme=tokyonight&layout=compact&count-private=true&hide=jupyter%20notebook"/></a>
 </p>
 <br>
