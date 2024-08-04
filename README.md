@@ -1,19 +1,17 @@
-### 👋 About Me
-Greetings! As a seasoned Frontend Engineer, I have a passion for creating exceptional user interfaces. I specialize in **React** / **Next.js**, and I engineer high-quality frontend solutions that enhance user experiences. I have a versatile skill set that includes **Docker**, **AWS**, and **Kubernetes**. I'm eager to join your team and bring my skills and creativity to your projects.
+# Greetings!
 
-### 🚀 Expertise:
+As a seasoned Full-Stack Developer, I have a passion for creating exceptional applications. I specialize in React and Next.js, engineering high-quality solutions that enhance user experiences. My versatile skill set includes Docker, AWS, and Kubernetes. I'm eager to join your team and bring my skills and creativity to your projects.
 
-I excel in crafting captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding frontend projects. I'm a versatile and tech-savvy developer who can handle different challenges and technologies.
+## 🚀 Expertise:
+I excel in crafting captivating applications that guarantee unparalleled UI/UX experiences. From single-page applications to complex web solutions, my expertise ensures the seamless realization of outstanding projects. I'm a versatile and tech-savvy developer ready to tackle diverse challenges.
 
-### 💡 Problem-Solving Proficiency:
-
-I'm a frontend developer who is immersed in the vibrant and diverse world of frontend technologies. I use creative problem-solving skills and advanced React patterns to deliver seamless and remarkable user interactions, ensuring optimal performance and cross-browser compatibility.
+## 💡 Problem-Solving Proficiency:
+I'm a full-stack developer immersed in the vibrant world of technologies. I leverage creative problem-solving skills and advanced React patterns to deliver seamless user interactions, ensuring optimal performance and cross-browser compatibility.
 
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,appwrite,docker,kubernetes,tailwind,express,nodejs,mongodb,aws,linux,js,ts,redux)](https://skillicons.dev)
-<img src="https://github.com/h-wasi/skill-icons/blob/main/icons/framer-motion.svg" width="36">
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes,tailwind,express,nodejs,mongodb,postgresql,sqlite,redis,aws,nginx,linux,js,ts)](https://skillicons.dev)
 
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
 <br>
