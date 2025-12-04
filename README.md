@@ -16,8 +16,8 @@ I'm a full-stack developer immersed in the vibrant world of technologies. I leve
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/H-Was1"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=H-Was1&show_icons=true&theme=tokyonight&count-private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Was1&theme=tokyonight&layout=compact&count-private=true&hide=jupyter%20notebook"/></a>
-</p>
+</p> -->
 <br>
